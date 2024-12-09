@@ -5,7 +5,7 @@ import Nike from "@/app/assets/nike.png";
 import Link from "next/link";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CiSearch } from "react-icons/ci";
-import Logo2 from "@/app/assets/Logo2.png";
+import Logo2 from "@/app/assets/logo2.png";
 import { FaRegHeart, FaShoppingBag } from "react-icons/fa";
 
 const Navbar = () => {
