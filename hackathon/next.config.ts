@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+    distDir: 'build',
+    // Add other config options here
 };
 
 export default nextConfig;
