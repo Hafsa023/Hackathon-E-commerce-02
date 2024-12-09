@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 
 import { IoLocationOutline } from "react-icons/io5";
